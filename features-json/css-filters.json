@@ -19,7 +19,9 @@
     {
       "url":"http://bennettfeely.com/filters/",
       "title":"Filter Playground"
-    }
+    },
+      "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/filter"
+      "title":"MDN article"
   ],
   "bugs":[
     
